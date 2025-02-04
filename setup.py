@@ -33,7 +33,6 @@ def get_requirements()->List[str]:
 
 
 """
-
 setup(
     name="your-package-name",      # Required - name of your package
     version="0.1.0",              # Required - version of your package
